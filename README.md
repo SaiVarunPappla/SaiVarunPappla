@@ -3,7 +3,7 @@
 ### B.Tech Computer Science & Systems Engineering Student and a Passionate Software Developer
 
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=SaiVarunPappla&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> 
+  <img src="https://komarev.com/ghpvc/?username=SaiVarunPappla&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" /> 
 </p>
 
 - 🔭 I'm currently working on **Various Full-Stack projects and containerized ERP ecosystems.**
@@ -32,21 +32,36 @@
 <a href="https://discord.com/users/1107006462607241216" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <img src="https://skillicons.dev/icons?i=cpp,python,javascript,typescript,react,nextjs,nodejs,express,fastapi,flask,django,flutter,kotlin,androidstudio,docker,postgresql,mongodb,firebase,sqlite,git,linux,postman,pytorch,tensorflow,scikitlearn,pandas,numpy,opencv,huggingface,langchain,streamlit,tailwind,html,css" alt="Tech Stack" />
+---
+
+### 🛠️ Tech Stack & Arsenal
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=py,cpp,js,ts,react,nextjs,nodejs,express,fastapi,flask,django,flutter,kotlin,androidstudio,docker,postgres,mongodb,firebase,sqlite,git,linux,postman,pytorch,tensorflow,sklearn,pandas,numpy,opencv,huggingface,langchain,streamlit,tailwind,html,css" alt="Tech Stack" />
 </p>
 
-<br/>
+---
+
+### 📊 GitHub Analytics & Metrics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SaiVarunPappla&show_icons=true&locale=en&theme=radical&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SaiVarunPappla&theme=radical" alt="GitHub Streak" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SaiVarunPappla&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SaiVarunPappla&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SaiVarunPappla&theme=radical" alt="GitHub Streak" />
-</p>
+---
+
+### 🚀 Featured Projects Highlights
+
+| Project Name | Tech Stack | Description | Links |
+| :--- | :--- | :--- | :--- |
+| **NutriVision AI** | Kotlin, FastAPI, ML Kit, Firebase | Multimodal Android + FastAPI system with on-device ML Kit OCR for food scanning & allergen checks. | [GitHub]([https://github.com/SaiVarunPappla](https://github.com/SaiVarunPappla/NutriVision)) |
+| **GreenTrace SaaS** | React 18, TypeScript, Supabase, PostgreSQL | Production B2B carbon emissions platform with GPS AutoTracker and OLS regression analytics. | [Live App]([https://greentrace.lovable.app](https://github.com/SaiVarunPappla/nanoGPT-visualizer)) |
+| **nanoGPT Visualizer** | Python, PyTorch, Gradio, Transformers | Interactive GPT-2 inference explorer visualizing token probability distributions and sampling strategies. | [GitHub]([https://github.com/SaiVarunPappla](https://github.com/SaiVarunPappla/nanoGPT-visualizer)) |
 
 ---
 
