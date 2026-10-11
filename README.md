@@ -2,8 +2,8 @@
 
 ### B.Tech Computer Science & Systems Engineering Student and a Passionate Software Developer
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=SaiVarunPappla&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" /> 
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=SaiVarunPappla&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
 - 🔭 I'm currently working on **Various Full-Stack projects and containerized ERP ecosystems.**
@@ -36,8 +36,19 @@
 
 ### 🛠️ Tech Stack & Arsenal
 
+**Languages, Databases & DevOps:**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=py,cpp,js,ts,react,nextjs,nodejs,express,fastapi,flask,django,flutter,kotlin,androidstudio,docker,postgres,mongodb,firebase,sqlite,git,linux,postman,pytorch,tensorflow,sklearn,pandas,numpy,opencv,huggingface,langchain,streamlit,tailwind,html,css" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=py,cpp,js,ts,postgres,mongodb,firebase,sqlite,docker,git,linux,postman" alt="Languages & Tools" />
+</p>
+
+**Web, Mobile & Frameworks:**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,fastapi,flask,django,flutter,kotlin,androidstudio,tailwind,html,css" alt="Web & Mobile" />
+</p>
+
+**AI, ML & Data Science:**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,pandas,numpy,opencv,huggingface,langchain,streamlit" alt="AI & ML" />
 </p>
 
 ---
@@ -59,9 +70,9 @@
 
 | Project Name | Tech Stack | Description | Links |
 | :--- | :--- | :--- | :--- |
-| **NutriVision AI** | Kotlin, FastAPI, ML Kit, Firebase | Multimodal Android + FastAPI system with on-device ML Kit OCR for food scanning & allergen checks. | [GitHub]([https://github.com/SaiVarunPappla](https://github.com/SaiVarunPappla/NutriVision)) |
-| **GreenTrace SaaS** | React 18, TypeScript, Supabase, PostgreSQL | Production B2B carbon emissions platform with GPS AutoTracker and OLS regression analytics. | [Live App]([https://greentrace.lovable.app](https://github.com/SaiVarunPappla/nanoGPT-visualizer)) |
-| **nanoGPT Visualizer** | Python, PyTorch, Gradio, Transformers | Interactive GPT-2 inference explorer visualizing token probability distributions and sampling strategies. | [GitHub]([https://github.com/SaiVarunPappla](https://github.com/SaiVarunPappla/nanoGPT-visualizer)) |
+| **NutriVision AI** | Kotlin, FastAPI, ML Kit, Firebase | Multimodal Android + FastAPI system with on-device ML Kit OCR for food scanning & allergen checks. | [GitHub](https://github.com/SaiVarunPappla) |
+| **GreenTrace SaaS** | React 18, TypeScript, Supabase, PostgreSQL | Production B2B carbon emissions platform with GPS AutoTracker and OLS regression analytics. | [Live App](https://greentrace.lovable.app) |
+| **nanoGPT Visualizer** | Python, PyTorch, Gradio, Transformers | Interactive GPT-2 inference explorer visualizing token probability distributions and sampling strategies. | [GitHub](https://github.com/SaiVarunPappla) |
 
 ---
 
