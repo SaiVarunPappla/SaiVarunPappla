@@ -9,8 +9,8 @@
 - 🔭 I'm currently working on **Various Full-Stack projects and containerized ERP ecosystems.**
 - 🌱 I'm currently learning **Advanced AI/ML technologies, RAG pipelines, system design, and sharpening DSA problem-solving.**
 - 👯 I'm looking to collaborate on **Open-source AI/ML tools, full-stack web applications, and intelligent systems.**
-- 🤝 I'm looking for help with **Scaling cloud deployments and advanced PyTorch architectures.**
-- 💬 Ask me about **Full-Stack Development, Python, PyTorch, and AI pipelines.**
+- 🤝 I'm looking for help with **Advanced Full-Stack and AI applications.**
+- 💬 Ask me about **Full-Stack Development, Python, and AI pipelines.**
 - 📫 How to reach me: **saivarunpappla@gmail.com**
 - ⚡ Fun fact: **Code explorer, court captain, and two-wheeled adventurer mapping out every cool destination.**
 - 📄 Know about my experiences: **[View Resume](https://drive.google.com/file/d/1isLBpm8CWSM8dQY3AEVCWsCQtxmouxu9/view?usp=sharing)**
