@@ -1,27 +1,31 @@
-# Pappla Sai Varun
+# Hi, I'm Pappla Sai Varun
 
-### B.Tech Computer Science & Systems Engineering Student and a Passionate Software Developer
+### Software Development Engineer (SDE) & AI Developer
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=SaiVarunPappla&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
 <p align="left">
-  <a href="https://papplasaivarun.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/🚀_Portfolio-000000?style=for-the-badge&logo=Vercel&logoColor=white" alt="Portfolio"/></a>
-  <a href="https://www.linkedin.com/in/pappla-sai-varun-874902200/?isSelfProfile=true" target="_blank"><img src="https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://x.com/Varunx_17" target="_blank"><img src="https://img.shields.io/badge/🐦_X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
-  <a href="https://drive.google.com/file/d/1isLBpm8CWSM8dQY3AEVCWsCQtxmouxu9/view?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/📄_Resume-EA4335?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume"/></a>
+  <a href="https://papplasaivarun.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=Vercel&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://www.linkedin.com/in/pappla-sai-varun-874902200/?isSelfProfile=true" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://x.com/Varunx_17" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
+  <a href="https://drive.google.com/file/d/1isLBpm8CWSM8dQY3AEVCWsCQtxmouxu9/view?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/Resume-EA4335?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume"/></a>
+  <a href="mailto:saivarunpappla@gmail.com"><img src="https://img.shields.io/badge/Get_In_Touch-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me"/></a>
 </p>
 
-- 🔭 I'm currently working on **Various Full-Stack projects and containerized ERP ecosystems.**
-- 🌱 I'm currently learning **Advanced AI/ML technologies, RAG pipelines, system design, and sharpening DSA problem-solving.**
-- 👯 I'm looking to collaborate on **Open-source AI/ML tools, full-stack web applications, and intelligent systems.**
-- 🤝 I'm looking for help with **Advanced Full-Stack and AI applications.**
-- 💬 Ask me about **Full-Stack Development, Python, and AI pipelines.**
-- 📫 How to reach me: **saivarunpappla@gmail.com**[cite: 1]
-- ⚡ Fun fact: **Code explorer, court captain, and two-wheeled adventurer mapping out every cool destination.**[cite: 1]
+> **Current Status:** Actively seeking SDE and AI/ML Internship and Full-Time Roles. Focused on rigorous DSA problem-solving and scalable system engineering.
 
-<h3 align="left">Connect with me:</h3>
+- Currently working on containerized ERP ecosystems, full-stack modules, and core CS fundamentals.
+- Continuously learning advanced AI/ML pipelines, system design, and algorithmic optimization.
+- Looking to collaborate on open-source software tools, AI platforms, and high-performance web applications.
+- Ask me about Software Engineering, Python, React, Docker, FastAPI, and machine learning pipelines.
+- Contact: **saivarunpappla@gmail.com**
+
+---
+
+### Connect With Me
+
 <p align="left">
 <a href="https://github.com/SaiVarunPappla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" /></a>
 <a href="https://dev.to/varunx_17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="Dev.to" height="30" width="40" /></a>
@@ -59,21 +63,19 @@
 
 ---
 
-### GitHub Trophies & Achievements
+### Algorithmic Problem Solving & Growth Roadmap
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=SaiVarunPappla&theme=radical&no-frame=false&no-background=false&margin-w=15" alt="GitHub Trophies" />
-  </a>
-</p>
+Instead of static completion metrics, this section tracks ongoing dedication to data structures, algorithms, and logical optimization:
+
+| Focus Area | Core Concepts & Techniques | Proficiency / Status |
+| :--- | :--- | :--- |
+| **Data Structures** | Arrays, Strings, Hash Maps, Stacks, Queues, Trees, Graphs | Actively Practicing Daily |
+| **Algorithms** | Two Pointers, Sliding Window, Dynamic Programming, Greedy | Problem Pattern Recognition |
+| **Platforms** | LeetCode, CodeForces, CodeChef | Consistent Daily Problem Solving |
 
 ---
 
 ### GitHub Analytics & Metrics
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SaiVarunPappla&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SaiVarunPappla&show_icons=true&locale=en&theme=radical&count_private=true" width="48%" alt="GitHub Stats" />
@@ -96,12 +98,12 @@
 
 ---
 
-### Playful Corner — Pac-Man Arcade
+### Interactive Contribution Tracker
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/snk-org/snk/output/github-contribution-grid-snake.svg" alt="Pac-Man Game Animation" />
+  <img src="https://raw.githubusercontent.com/SaiVarunPappla/SaiVarunPappla/output/github-contribution-grid-snake.svg" alt="Pac-Man Contribution Animation" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,12,25,35,30&height=120&section=footer&text=Thanks%20For%20Visiting%20My%20Profile!&fontSize=20&fontAlignY=80&animation=fadeIn" alt="Header Wave"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,12,25,35,30&height=120&section=footer&text=Thanks%20For%20Visiting%20My%20Profile!&fontSize=20&fontAlignY=80&animation=fadeIn" alt="Footer Wave"/>
 </p>
