@@ -1,4 +1,4 @@
-# Hi , I'm Pappla Sai Varun
+# Pappla Sai Varun
 
 ### B.Tech Computer Science & Systems Engineering Student and a Passionate Software Developer
 
@@ -62,12 +62,17 @@
 ### GitHub Analytics & Metrics
 
 <p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SaiVarunPappla&theme=react-dark&hide_border=true" alt="Activity Graph" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SaiVarunPappla&show_icons=true&locale=en&theme=radical&count_private=true" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SaiVarunPappla&theme=radical" alt="GitHub Streak" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SaiVarunPappla&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-wakatime.vercel.app/api?username=SaiVarunPappla&theme=radical&layout=compact" alt="WakaTime Stats" />
 </p>
 
 ---
@@ -82,7 +87,7 @@
 
 ---
 
-## Playful Corner — Contribution Snake
+## Contribution Snake Game
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/SaiVarunPappla/SaiVarunPappla/output/github-contribution-grid-snake.svg" alt="Snake Game Animation" />
