@@ -1,4 +1,4 @@
-# Hi, I'm Pappla Sai Varun
+# Pappla Sai Varun
 
 ### B.Tech Computer Science & Systems Engineering Student and a Passionate Software Developer
 
@@ -13,13 +13,13 @@
   <a href="https://drive.google.com/file/d/1isLBpm8CWSM8dQY3AEVCWsCQtxmouxu9/view?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/📄_Resume-EA4335?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume"/></a>
 </p>
 
-- I'm currently working on **Various Full-Stack projects and containerized ERP ecosystems.**
-- I'm currently learning **Advanced AI/ML technologies, RAG pipelines, system design, and sharpening DSA problem-solving.**
-- I'm looking to collaborate on **Open-source AI/ML tools, full-stack web applications, and intelligent systems.**
-- I'm looking for help with **Advanced Full-Stack and AI applications.**
-- Ask me about **Full-Stack Development, Python, and AI pipelines.**
-- How to reach me: **saivarunpappla@gmail.com**
-- Fun fact: **Code explorer, court captain, and two-wheeled adventurer mapping out every cool destination.**
+- 🔭 I'm currently working on **Various Full-Stack projects and containerized ERP ecosystems.**
+- 🌱 I'm currently learning **Advanced AI/ML technologies, RAG pipelines, system design, and sharpening DSA problem-solving.**
+- 👯 I'm looking to collaborate on **Open-source AI/ML tools, full-stack web applications, and intelligent systems.**
+- 🤝 I'm looking for help with **Advanced Full-Stack and AI applications.**
+- 💬 Ask me about **Full-Stack Development, Python, and AI pipelines.**
+- 📫 How to reach me: **saivarunpappla@gmail.com**[cite: 1]
+- ⚡ Fun fact: **Code explorer, court captain, and two-wheeled adventurer mapping out every cool destination.**[cite: 1]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -59,20 +59,29 @@
 
 ---
 
+### GitHub Trophies & Achievements
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=SaiVarunPappla&theme=radical&no-frame=false&no-background=false&margin-w=15" alt="GitHub Trophies" />
+  </a>
+</p>
+
+---
+
 ### GitHub Analytics & Metrics
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SaiVarunPappla&theme=react-dark&hide_border=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SaiVarunPappla&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SaiVarunPappla&show_icons=true&locale=en&theme=radical&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SaiVarunPappla&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SaiVarunPappla&show_icons=true&locale=en&theme=radical&count_private=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SaiVarunPappla&theme=radical" width="48%" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SaiVarunPappla&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
-  <img src="https://github-readme-wakatime.vercel.app/api?username=SaiVarunPappla&theme=radical&layout=compact" alt="WakaTime Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SaiVarunPappla&show_icons=true&locale=en&layout=compact&theme=radical" width="60%" alt="Top Languages" />
 </p>
 
 ---
@@ -87,8 +96,12 @@
 
 ---
 
-## Contribution Snake Game
+### Playful Corner — Pac-Man Arcade
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SaiVarunPappla/SaiVarunPappla/output/github-contribution-grid-snake.svg" alt="Snake Game Animation" />
+  <img src="https://raw.githubusercontent.com/snk-org/snk/output/github-contribution-grid-snake.svg" alt="Pac-Man Game Animation" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,12,25,35,30&height=120&section=footer&text=Thanks%20For%20Visiting%20My%20Profile!&fontSize=20&fontAlignY=80&animation=fadeIn" alt="Header Wave"/>
 </p>
