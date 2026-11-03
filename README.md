@@ -1,4 +1,4 @@
-# Hi 👋, I'm Pappla Sai Varun
+# Hi , I'm Pappla Sai Varun
 
 ### B.Tech Computer Science & Systems Engineering Student and a Passionate Software Developer
 
@@ -13,13 +13,13 @@
   <a href="https://drive.google.com/file/d/1isLBpm8CWSM8dQY3AEVCWsCQtxmouxu9/view?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/📄_Resume-EA4335?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume"/></a>
 </p>
 
-- 🔭 I'm currently working on **Various Full-Stack projects and containerized ERP ecosystems.**
-- 🌱 I'm currently learning **Advanced AI/ML technologies, RAG pipelines, system design, and sharpening DSA problem-solving.**
-- 👯 I'm looking to collaborate on **Open-source AI/ML tools, full-stack web applications, and intelligent systems.**
-- 🤝 I'm looking for help with **Advanced Full-Stack and AI applications.**
-- 💬 Ask me about **Full-Stack Development, Python, and AI pipelines.**
-- 📫 How to reach me: **saivarunpappla@gmail.com**
-- ⚡ Fun fact: **Code explorer, court captain, and two-wheeled adventurer mapping out every cool destination.**
+- I'm currently working on **Various Full-Stack projects and containerized ERP ecosystems.**
+- I'm currently learning **Advanced AI/ML technologies, RAG pipelines, system design, and sharpening DSA problem-solving.**
+- I'm looking to collaborate on **Open-source AI/ML tools, full-stack web applications, and intelligent systems.**
+- I'm looking for help with **Advanced Full-Stack and AI applications.**
+- Ask me about **Full-Stack Development, Python, and AI pipelines.**
+- How to reach me: **saivarunpappla@gmail.com**
+- Fun fact: **Code explorer, court captain, and two-wheeled adventurer mapping out every cool destination.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -40,7 +40,7 @@
 
 ---
 
-### 🛠️ Tech Stack & Arsenal
+### Tech Stack & Arsenal
 
 **Languages, Databases & DevOps:**
 <p align="left">
@@ -59,7 +59,7 @@
 
 ---
 
-### 📊 GitHub Analytics & Metrics
+### GitHub Analytics & Metrics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SaiVarunPappla&show_icons=true&locale=en&theme=radical&count_private=true" alt="GitHub Stats" />
@@ -72,7 +72,7 @@
 
 ---
 
-### 🚀 Featured Projects Highlights
+### Featured Projects Highlights
 
 | Project Name | Tech Stack | Description | Links |
 | :--- | :--- | :--- | :--- |
@@ -82,7 +82,7 @@
 
 ---
 
-## 🎮 Playful Corner — Contribution Snake
+## Playful Corner — Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/SaiVarunPappla/SaiVarunPappla/output/github-contribution-grid-snake.svg" alt="Snake Game Animation" />
