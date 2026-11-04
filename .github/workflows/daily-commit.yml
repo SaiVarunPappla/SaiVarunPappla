@@ -2,16 +2,17 @@ name: Daily Contribution Keeping
 
 on:
   schedule:
-    # Runs automatically every day at midnight UTC
     - cron: '0 0 * * *'
   workflow_dispatch:
 
 jobs:
   auto-commit:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - name: Checkout Repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: Update Activity Log
         run: |
