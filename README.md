@@ -1,12 +1,15 @@
 # Hi, I'm Pappla Sai Varun
 
-### Software Development Engineer (SDE) & AI Developer
+<table align="center" width="100%">
+<tr>
+<td align="center" width="100%">
 
-<p align="left">
+### **Software Development Engineer (SDE) & AI Developer**
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=SaiVarunPappla&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-<p align="left">
+<p align="center">
   <a href="https://papplasaivarun.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=Vercel&logoColor=white" alt="Portfolio"/></a>
   <a href="https://www.linkedin.com/in/pappla-sai-varun-874902200/?isSelfProfile=true" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://x.com/Varunx_17" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
@@ -14,13 +17,11 @@
   <a href="mailto:saivarunpappla@gmail.com"><img src="https://img.shields.io/badge/Get_In_Touch-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me"/></a>
 </p>
 
-> **Current Status:** Actively seeking SDE and AI/ML Internship and Full-Time Roles. Focused on rigorous DSA problem-solving and scalable system engineering.
+> **Current Focus:** Actively seeking SDE and AI/ML Internship and Full-Time Roles. Focused on rigorous DSA problem-solving and scalable system engineering.
 
-- Currently working on containerized ERP ecosystems, full-stack modules, and core CS fundamentals.
-- Continuously learning advanced AI/ML pipelines, system design, and algorithmic optimization.
-- Looking to collaborate on open-source software tools, AI platforms, and high-performance web applications.
-- Ask me about Software Engineering, Python, React, Docker, FastAPI, and machine learning pipelines.
-- Contact: **saivarunpappla@gmail.com**
+</td>
+</tr>
+</table>
 
 ---
 
@@ -63,18 +64,6 @@
 
 ---
 
-### Algorithmic Problem Solving & Growth Roadmap
-
-Instead of static completion metrics, this section tracks ongoing dedication to data structures, algorithms, and logical optimization:
-
-| Focus Area | Core Concepts & Techniques | Proficiency / Status |
-| :--- | :--- | :--- |
-| **Data Structures** | Arrays, Strings, Hash Maps, Stacks, Queues, Trees, Graphs | Actively Practicing Daily |
-| **Algorithms** | Two Pointers, Sliding Window, Dynamic Programming, Greedy | Problem Pattern Recognition |
-| **Platforms** | LeetCode, CodeForces, CodeChef | Consistent Daily Problem Solving |
-
----
-
 ### GitHub Analytics & Metrics
 
 <p align="center">
@@ -105,5 +94,5 @@ Instead of static completion metrics, this section tracks ongoing dedication to 
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,12,25,35,30&height=120&section=footer&text=Thanks%20For%20Visiting%20My%20Profile!&fontSize=20&fontAlignY=80&animation=fadeIn" alt="Footer Wave"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=100&section=footer&text=Thanks%20For%20Visiting%20My%20Profile!&fontSize=18&fontAlignY=60&animation=fadeIn" alt="Footer Wave"/>
 </p>
