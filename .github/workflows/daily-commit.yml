@@ -9,7 +9,7 @@ jobs:
   auto-commit:
     runs-on: ubuntu-latest
     permissions:
-      contents: write
+      contents: write  # <-- This is what fixes exit code 128!
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v4
