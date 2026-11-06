@@ -5,6 +5,7 @@
 <td align="center" width="100%">
 
 ### **Software Development Engineer (SDE) & AI Developer**
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=SaiVarunPappla&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
@@ -87,10 +88,14 @@
 
 ---
 
-### Interactive Contribution Tracker
+### Interactive Pac-Man Contribution Game
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SaiVarunPappla/SaiVarunPappla/output/github-contribution-grid-snake.svg" alt="Pac-Man Contribution Animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SaiVarunPappla/SaiVarunPappla/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SaiVarunPappla/SaiVarunPappla/output/pacman-contribution-graph.svg">
+    <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/SaiVarunPappla/SaiVarunPappla/output/pacman-contribution-graph.svg">
+  </picture>
 </p>
 
 <p align="center">
